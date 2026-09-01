@@ -4,9 +4,8 @@ A Machine Learning web application that predicts whether a customer is likely to
 
 ## 🚀 Live Demo
 
-Add your deployed Render link here:
+Add your deployed Render link here: https://customer-churn-prediction-app-tml8.onrender.com
 
-[Customer Churn Prediction App](https://customer-churn-prediction-app-tml8.onrender.com)
 
 ---
 
